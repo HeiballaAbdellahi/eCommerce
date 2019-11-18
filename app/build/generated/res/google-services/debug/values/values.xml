@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">111103992735-5hqftn23htn9m90ntsnhdbok9a8septa.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ecommerce-82132.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">111103992735</string>
+    <string name="google_api_key" translatable="false">AIzaSyBPNrTp7XJb4igVMXWXKX92X_-zwE3c_nA</string>
+    <string name="google_app_id" translatable="false">1:111103992735:android:a9c1caeed57176d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBPNrTp7XJb4igVMXWXKX92X_-zwE3c_nA</string>
+    <string name="google_storage_bucket" translatable="false">ecommerce-82132.appspot.com</string>
+    <string name="project_id" translatable="false">ecommerce-82132</string>
+</resources>
